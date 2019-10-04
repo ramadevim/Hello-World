@@ -1,0 +1,5 @@
+we just created simple Djnago app using python and django.
+1.Python 3.7 version
+2.Django 
+
+It's simple basic example of beginners of Django Developers.
